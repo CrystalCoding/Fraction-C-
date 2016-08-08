@@ -1,5 +1,3 @@
-Name: Shubham Singh
-ID: 40004796
 
 Instructions to compile and run the program:
 To compile
